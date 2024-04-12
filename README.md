@@ -8,8 +8,9 @@ O projeto-calculadora tem o propósito de me desafiar a resolver problemas envol
 2. No cabeçalho da calculadora, deverá haver um input para inserção dos operandos e os operadores e logo abaixo dele um local para exibir o resultado da operação antes mesmo de o usuário apertar o botão de "=";
 3. Cada operando deve ter um limite de 15 caracteres (como no aplicativo da Samsung) e, com a adição de um operador e outro operando, deve inseri-los em uma linha abaixo;
 4. A partir de 13 caracteres o tamanho da letra do input do cabeçalho diminui;
-5. Haverá botões na tela para a inserção dos números, operadores (soma, subtração, divisão e multiplicação), paretenses, porcentagem, e separador decimal, no nosso caso, a vírgula, um botão para apagar tudo e
-6. Apesar dos botões na tela, é preciso que a calculadora permita o uso do teclado.
+5. Haverá botões na tela para a inserção dos números, operadores (soma, subtração, divisão e multiplicação), paretenses, porcentagem, e separador decimal, no nosso caso, a vírgula, um botão para apagar tudo;
+6. Apesar dos botões na tela, é preciso que a calculadora permita o uso do teclado e
+7. Ser responsivo para celulares.
 
 ## Tecnologias:
 
